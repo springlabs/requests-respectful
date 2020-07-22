@@ -18,7 +18,7 @@ requires = [
 ]
 
 setup(
-    name='requests-respectful',
+    name='spring-requests-respectful',
     version="0.2.0",
     description='Minimalist wrapper on top of Requests to work within rate limits of any amount of services simultaneously. Parallel processing friendly.',
     long_description=long_description,
